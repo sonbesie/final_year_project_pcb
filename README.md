@@ -1,4 +1,4 @@
-# Final Year Pproject: Printed Circuit Board
+# Final Year Project: Printed Circuit Board
 
 ## Description
 The printed circuits boards for my final year project. The repository contains two folders each containing a PCB. The first PCB is the camera board where the cameras monitoring the finish line are attatched. The second PCB contains the designs for the memory card.

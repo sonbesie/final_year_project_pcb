@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HC138E
+D High Speed CMOS Logic 3-to-8 Line Decoder Demultiplexer Inverting and Non-Inverting
+K
+F http://www.ti.com/lit/ds/symlink/cd74hc138.pdf
+$ENDCMP
+#
+#End Doc Library

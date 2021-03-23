@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name W25Q32JVDAIQ)(type KiCad)(uri ${KIPRJMOD}/lib/W25Q32JVDAIQ.pretty)(options "")(descr ""))
+  (lib (name CD74HC138E)(type KiCad)(uri ${KIPRJMOD}/lib/CD74HC138E.pretty)(options "")(descr ""))
+)

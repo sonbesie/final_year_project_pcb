@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name W25Q32JVDAIQ)(type Legacy)(uri ${KIPRJMOD}/lib/W25Q32JVDAIQ.pretty/W25Q32JVDAIQ.lib)(options "")(descr ""))
+  (lib (name CD74HC138E)(type Legacy)(uri ${KIPRJMOD}/lib/CD74HC138E.pretty/CD74HC138E.lib)(options "")(descr ""))
+)

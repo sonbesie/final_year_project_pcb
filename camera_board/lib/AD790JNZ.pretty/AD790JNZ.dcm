@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD790JNZ
+D AD790JNZ, Comparator 5 V 8-Pin PDIP
+K
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD790.pdf
+$ENDCMP
+#
+#End Doc Library

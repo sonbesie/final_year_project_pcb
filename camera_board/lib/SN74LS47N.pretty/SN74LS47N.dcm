@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LS47N
+D BCD-TO-SEVEN-SEGMENT DECODERS/DRIVERS
+K
+F http://componentsearchengine.com/Datasheets/3/SN74LS47N.pdf
+$ENDCMP
+#
+#End Doc Library

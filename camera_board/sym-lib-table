@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name 615006138421)(type Legacy)(uri ${KIPRJMOD}/lib/615006138421.pretty/615006138421.lib)(options "")(descr ""))
+  (lib (name G5LE-1A-E-36_DC5)(type Legacy)(uri ${KIPRJMOD}/lib/G5LE-1A-E-36_DC5.pretty/G5LE-1A-E-36_DC5.lib)(options "")(descr ""))
+  (lib (name STQ3N45K3-AP)(type Legacy)(uri ${KIPRJMOD}/lib/STQ3N45K3-AP.pretty/STQ3N45K3-AP.lib)(options "")(descr ""))
+  (lib (name BA50DD0WT)(type Legacy)(uri ${KIPRJMOD}/lib/BA50DD0WT.pretty/BA50DD0WT.lib)(options "")(descr ""))
+  (lib (name SN74LS47N)(type Legacy)(uri ${KIPRJMOD}/lib/SN74LS47N.pretty/SN74LS47N.lib)(options "")(descr ""))
+  (lib (name AD790JNZ)(type Legacy)(uri ${KIPRJMOD}/lib/AD790JNZ.pretty/AD790JNZ.lib)(options "")(descr ""))
+  (lib (name camera_board-rescue)(type Legacy)(uri ${KIPRJMOD}/camera_board-rescue.lib)(options "")(descr ""))
+)

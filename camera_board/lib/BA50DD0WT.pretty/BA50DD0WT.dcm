@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BA50DD0WT
+D ROHM BA50DD0WT, LDO Regulator, 2A, 5 V, +/-1% 5-Pin, TO-220FP
+K
+F https://componentsearchengine.com/Datasheets/1/BA50DD0WT.pdf
+$ENDCMP
+#
+#End Doc Library

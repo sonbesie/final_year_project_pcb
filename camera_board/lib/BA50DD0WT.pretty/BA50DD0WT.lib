@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BA50DD0WT
+#/773113/152282/2.47/5/3/Power Supply
+DEF BA50DD0WT PS 0 30 Y Y 1 F N
+F0 "PS" 950 300 50 H V L CNN
+F1 "BA50DD0WT" 950 200 50 H V L CNN
+F2 "TO178P480X1010X1810-5P" 950 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/BA50DD0WT.pdf" 950 0 50 H I L CNN
+F4 "ROHM BA50DD0WT, LDO Regulator, 2A, 5 V, +/-1% 5-Pin, TO-220FP" 950 -100 50 H I L CNN "Description"
+F5 "4.8" 950 -200 50 H I L CNN "Height"
+F6 "ROHM Semiconductor" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BA50DD0WT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "BA50DD0WT" 950 -500 50 H I L CNN "Arrow Part Number"
+F9 "" 950 -600 50 H I L CNN "Arrow Price/Stock"
+F10 "755-BA50DD0WT" 950 -700 50 H I L CNN "Mouser Part Number"
+F11 "https://www.mouser.com/Search/Refine.aspx?Keyword=755-BA50DD0WT" 950 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X CTL 1 0 0 200 R 50 50 0 0 I
+X VCC 2 0 -100 200 R 50 50 0 0 W
+X N.C./GND 3 0 -200 200 R 50 50 0 0 W
+X OUT 4 0 -300 200 R 50 50 0 0 W
+X N.C. 5 0 -400 200 R 50 50 0 0 N
+P 5 0 1 6 200 100 900 100 900 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

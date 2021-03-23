@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name 615006138421)(type KiCad)(uri ${KIPRJMOD}/lib/615006138421.pretty)(options "")(descr ""))
+  (lib (name G5LE-1A-E-36_DC5)(type KiCad)(uri ${KIPRJMOD}/lib/G5LE-1A-E-36_DC5.pretty)(options "")(descr ""))
+  (lib (name BA50DD0WT)(type KiCad)(uri ${KIPRJMOD}/lib/BA50DD0WT.pretty)(options "")(descr ""))
+  (lib (name STQ3N45K3-AP)(type KiCad)(uri ${KIPRJMOD}/lib/STQ3N45K3-AP.pretty)(options "")(descr ""))
+  (lib (name SN74LS47N)(type KiCad)(uri ${KIPRJMOD}/lib/SN74LS47N.pretty)(options "")(descr ""))
+  (lib (name AD790JNZ)(type KiCad)(uri ${KIPRJMOD}/lib/AD790JNZ.pretty)(options "")(descr ""))
+)
